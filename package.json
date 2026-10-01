@@ -76,7 +76,7 @@
     "gpt-tokenizer": "^4.0.0",
     "import-in-the-middle": "^3.4.0",
     "lucide-react": "^1.39.0",
-    "next": "^16.3.6",
+    "next": "^16.3.8",
     "next-themes": "^0.4.6",
     "pdfjs-dist": "^6.3.289",
     "pg": "^8.23.0",
